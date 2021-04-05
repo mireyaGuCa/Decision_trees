@@ -16,4 +16,4 @@
 - Comprobar los resultados de los modelos supervisados
 - Decidir si agregar mas modelos supervisados
 - Graficar resultados de supervisados
-- Interprear los resultados
+- Interpretar los resultados
